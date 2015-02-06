@@ -1,2 +1,1 @@
-# AKingsNightmare
-Turn-based game against a computer bot in Turing
+A Turing game featuring GUI and a computer bot which can play against a human player.
